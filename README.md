@@ -12,6 +12,4 @@
 
 ## Functions
 
-### golfscript.stringify(target)
-
 ### golfscript.interpret(code, \*\*kwargs)
