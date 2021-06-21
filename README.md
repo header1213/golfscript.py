@@ -10,6 +10,8 @@
 
 ### golfscript.Block(value)
 
+### golfscript.UnknownTypeError(Exception)
+
 ## Functions
 
 ### golfscript.interpret(code, \*\*kwargs)
